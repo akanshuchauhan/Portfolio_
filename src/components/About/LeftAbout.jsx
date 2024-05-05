@@ -1,5 +1,5 @@
 import React from "react";
-import { bannerImg, bannerImg2 } from "../../assets/index";
+import {  bannerImg2 } from "../../assets/index";
 
 const LeftAbout = () => {
   return (

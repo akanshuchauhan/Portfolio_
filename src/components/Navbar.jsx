@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
-import { logo2, logo4 } from "../assets/index";
+import {  logo4 } from "../assets/index";
 import { navLinksdata } from "../constants/index";
 
 const Navbar = () => {

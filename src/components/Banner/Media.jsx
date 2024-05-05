@@ -1,13 +1,6 @@
 import React from "react";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
-import {
-  SiTailwindcss,
-  SiFigma,
-  SiNextdotjs,
-  SiMongodb,
-  SiExpress,
-  SiNodedotjs,
-} from "react-icons/si";
+import { FaTwitter, FaLinkedinIn, FaReact, FaGithub } from "react-icons/fa";
+import { SiMongodb, SiExpress, SiNodedotjs } from "react-icons/si";
 import { Link } from "react-router-dom";
 const Media = () => {
   return (
