@@ -50,7 +50,7 @@ const Media = () => {
       </div>
       <div>
         <a
-          href="https://drive.google.com/file/d/19OHnlq3JuKTAwgn9NMLYa1g7Xum5Nk4-/view?usp=drive_link"
+          href="https://drive.google.com/file/d/10CvYzUmb6emw0PaeLziCx96aERveMDgg/view?usp=sharing"
           target="_blank"
         >
           <button className="w-full h-12 bg-[#141518] rounded-lg text-base text-gray-400 tracking-wider uppercase hover:text-white duration-300 hover:border-[1px] hover:border-designColor border-transparent">
