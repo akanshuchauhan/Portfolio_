@@ -1,12 +1,10 @@
-import { FaCode, FaMobile, FaGlobe } from "react-icons/fa";
-import { AiFillAppstore } from "react-icons/ai";
-import { SiProgress } from "react-icons/si";
+import { FaCode } from "react-icons/fa";
 import projectOne from "../assets/images/projects/projectOne.png";
 import projectTwo from "../assets/images/projects/projectTwo.png";
 import projectThree from "../assets/images/projects/projectThree.png";
 import projectFour from "../assets/images/projects/projectFour.png";
 import projectFive from "../assets/images/projects/projectFive.png";
-import projectSix from "../assets/images/projects/projectSix.jpg";
+import Feast from "../assets/images/projects/Feast.png";
 import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { VscServerProcess } from "react-icons/vsc";
 
@@ -79,12 +77,12 @@ const ProjectsData = [
   },
   {
     id: 6,
-    img: projectSix,
-    title: "Tic tac toe",
-    github: "https://github.com/Himanshu8825/Tic-Tac-Toe.git",
-    liveLink: "https://illustrious-tarsier-808121.netlify.app/",
+    img: Feast,
+    title: "Feast",
+    github: "https://github.com/Himanshu8825/Feast.git",
+    liveLink: "https://feast-kappa.vercel.app/",
     description:
-      "'Tic Tac Toe' is my HTML, CSS, and JavaScript creation, offering classic gaming fun. Experience timeless entertainment with this web-based rendition of the beloved game.",
+      "'Feast' is my React , Redux, and Tailwind Css  creation, This is a only Front End Project.",
   },
 ];
 
