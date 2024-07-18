@@ -12,27 +12,27 @@ const Education = () => {
       {/* part one */}
       <div className="lgl:w-1/2 w-full">
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2017 - 2023</p>
+          <p className="text-sm text-designColor tracking-[4px]">2017 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BSc in Information Technology"
-            subTitle="Patliputra University Patna (2020 - 2023)"
-            result="6.1/10"
-            des="Graduated from CIMAGE College Patna in 2023, under Patliputra University, refining skills for dynamic career paths and cultural contributions."
+            title="M.Tech in Computer Science"
+            subTitle="Vit Vellore (2022 - 2024)"
+            result="8.2/10"
+            des=" Post Graduated from VIT Vellore in 2024, under  Vellore Institute Of Technology , refining skills for dynamic career paths and Logical thinking."
           />
           <ResumeCard
-            title="Intermidiate"
-            subTitle="S N Sinha College (2017 - 2017)"
-            result="7.8/10"
-            des="Intermidiate from S N Sinha College, Aurangabad, in 2019 under the BSEB Board, specializing in PCM stream, laying the groundwork for higher academic pursuits."
+            title="B.Tech in Computer Science"
+            subTitle=" IITM Murthal (2017-2021)"
+            result="6.8/10"
+            des="Graduate from IITM Murthal, Delhi NCR, in 2021 under the DCRUST, Computer Science stream, laying the groundwork for higher academic pursuits."
           />
           <ResumeCard
-            title="Matriculation"
-            subTitle="High School Bhadwa ( 2017)"
-            result="6.2/10"
-            des="Completed Matriculation from High School Bhadwa in 2017 under the BSEB Board, initiating the journey through secondary education, setting the stage for further academic growth."
+            title="Secondary School"
+            subTitle="Nalanda Modern Public School(2015)"
+            result="8.2/10"
+            des="Completed Secondary from NMPS School Delhi in 2015 under the CBSE Board, initiating the journey through secondary education, setting the stage for further academic growth."
           />
         </div>
       </div>
@@ -40,21 +40,21 @@ const Education = () => {
 
       <div className="lgl:w-1/2 w-full">
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p>
+          <p className="text-sm text-designColor tracking-[4px]">2020 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Frontend Developer Intern"
-            subTitle="Brand Monkey (Feb - April - 2024)"
-            result="Noida (Delhi)"
-            des="Engaged as a Frontend Developer Intern at Brand Monkey, Noida (Delhi) from February to April 2024, specializing in React.js. Leveraged expertise to contribute dynamically to projects, embracing Google's hiring culture and fostering team synergy."
+            title="Software Developer Intern"
+            subTitle="AffieFly (March -Present)"
+            result="India"
+            des="Engaged as a Full Stack Developer Intern at Brand AffieFly, Banglore from March to Present 2024, specializing in React.js. Leveraged expertise to contribute dynamically to projects, embracing Google's hiring culture and fostering team synergy."
           />
           <ResumeCard
             title="Web Developer Intern"
-            subTitle="Afame Technologies - (Jan - 2014)"
+            subTitle="VMC Technologies - (Dec 2022 - May 2023)"
             result="Virtual"
-            des="Embarked on a virtual Web Developer Internship journey at Afame Technologies in January 2014, delving into the realms of web development for a 30-day duration. Despite the challenges of securing roles in Malaysia, embraced the opportunity to hone skills alongside highly qualified homegrown graduates."
+            des="Embarked on a virtual Web Developer Internship journey at VMC Technologies in January 2023, delving into the realms of web development for a 6-months duration. Despite the challenges of securing roles in Malaysia, embraced the opportunity to hone skills alongside highly qualified homegrown graduates."
           />
           <ResumeCard
             title="Full Stack Trainee"

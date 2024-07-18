@@ -1,17 +1,16 @@
 import { FaCode } from "react-icons/fa";
-import projectOne from "../assets/images/projects/projectOne.png";
-import projectTwo from "../assets/images/projects/projectTwo.png";
-import projectThree from "../assets/images/projects/projectThree.png";
-import projectFour from "../assets/images/projects/projectFour.png";
-import projectFive from "../assets/images/projects/projectFive.png";
-import Feast from "../assets/images/projects/Feast.png";
 import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { VscServerProcess } from "react-icons/vsc";
+import projectFive from "../assets/images/projects/projectFive.png";
+import projectFour from "../assets/images/projects/projectFour.png";
+import projectOne from "../assets/images/projects/projectOne.png";
+import projectThree from "../assets/images/projects/projectThree.png";
+import projectTwo from "../assets/images/projects/projectTwo.png";
 
 const featuresData = [
   {
     id: 1,
-    icon: FaCode, // Just reference the component here, don't use JSX syntax
+    icon: FaCode,
     title: "Full Stack Development",
     des: "I utilize the MERN stack to develop high-quality web applications, seamlessly integrating frontend and backend components for superior user interaction.",
   },
@@ -33,57 +32,49 @@ const ProjectsData = [
   {
     id: 1,
     img: projectOne,
-    title: "Real Estate",
-    github: "https://github.com/Himanshu8825/RealEstate.git",
-    liveLink: "https://verma-estate.onrender.com/",
+    title: "Chat App",
+    github: "https://github.com/akanshuchauhan/ChatFrontend",
+    liveLink: "https://chat-frontend-topaz-six.vercel.app/",
     description:
-      "'Real Estate' is my MERN stack creation, using Tailwind CSS, Firebase, and Redux. Seamlessly list and manage properties for sale or rent on this robust platform, offering an intuitive user experience.",
+      "Developed a real-time messaging app with instant messaging, user authentication, and real-time updates. This application significantly improved message delivery speed and user engagement by leveraging Socket.IO's event-driven architecture for efficient data exchange between clients and the server.",
   },
   {
     id: 2,
     img: projectTwo,
     title: "Food Delivery",
-    github: "https://github.com/Himanshu8825/FoodDeleveryProject.git",
-    liveLink: "https://github.com/Himanshu8825/FoodDeleveryProject.git",
+    github: "https://github.com/akanshuchauhan/Delivary_app_next_js",
+    liveLink: "https://delivary-app-next-js-c4dw.vercel.app/",
     description:
-      "'Food Delivery' is my MERN stack project, featuring an admin panel for efficient management. Enjoy seamless ordering and tracking for an enhanced dining experience.",
+      "Created a robust delivery application optimizing routing and real-time tracking, reducing delivery times. Implemented a user-friendly interface, enhancing customer satisfaction and increasing order frequency. Additionally, scaled backend infrastructure to support high-volume orders and peak-time traffic efficiently.  ",
   },
   {
     id: 3,
     img: projectThree,
-    title: "Stay Sanse",
-    github: "https://github.com/Himanshu8825/Hotel-Stay-Sense.git",
-    liveLink: "https://stay-sense.onrender.com/",
+    title: "Ecommerce",
+    github: "https://github.com/akanshuchauhan/ecom_Fromtend",
+    liveLink: "https://ecom-fromtend-223i.vercel.app/",
     description:
-      "'Stay Sense' is my full-stack hotel booking app, offering seamless reservations and delightful stays. Experience hassle-free booking and memorable accommodations with ease.",
+      "Built a full-stack e-commerce platform with a 40% faster query response time. Enhanced UI/UX, increasing user retention by 25%, and scaled the application to handle 1,000 transactions per second. ",
   },
   {
     id: 4,
     img: projectFour,
-    title: "Razor pay",
-    github: "https://github.com/Himanshu8825/Razorpay-Front-End.git",
-    liveLink: "https://profound-queijadas-e68ae3.netlify.app/",
+    title: "Health-Care System",
+    github: "https://github.com/akanshuchauhan/HealthCareSystem",
+    liveLink: "https://healthcaresystem-vsf0.onrender.com/",
     description:
-      "'RazorPay Clone' is my project, replicating RazorPay's functionality with HTML and Tailwind CSS. Seamlessly handle payments and transactions with a sleek, responsive interface.",
+      "Created a scalable platform for medical data management and provider-patient communication. Achieved compliance with medical data standards, reducing record retrieval time by 30%, and implemented features to cut scheduling errors and streamline patient management.",
   },
   {
     id: 5,
     img: projectFive,
     title: "Portfolio",
-    github: "https://github.com/Himanshu8825/Password-Generator.git",
-    liveLink: "https://resilient-duckanoo-7c0618.netlify.app/",
+    github: "https://akanshuchauhan.github.io/Password-Generator/",
+    liveLink: "https://akanshuchauhan.github.io/Password-Generator/",
     description:
       "Portfolio project leveraging React.js and Tailwind CSS for dynamic UI. Designed to optimize user experience with intuitive navigation and modern aesthetics.",
-  },
-  {
-    id: 6,
-    img: Feast,
-    title: "Feast",
-    github: "https://github.com/Himanshu8825/Feast.git",
-    liveLink: "https://feast-kappa.vercel.app/",
-    description:
-      "'Feast' is my React , Redux, and Tailwind Css  creation, This is a only Front End Project.",
   },
 ];
 
 export { featuresData, ProjectsData };
+

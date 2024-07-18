@@ -11,21 +11,17 @@ const Media = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://www.linkedin.com/in/suraj-ver789">
+            <a href="https://www.linkedin.com/in/akanshu-chauhan-627622205">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>
             </a>
-            <a href="https://github.com/Himanshu8825">
+            <a href="https://github.com/akanshuchauhan">
               <span className="bannerIcon">
                 <FaGithub />
               </span>
             </a>
-            <a href="https://twitter.com/suraj_ver789">
-              <span className="bannerIcon">
-                <FaTwitter />
-              </span>
-            </a>
+             
           </div>
         </div>
         <div>
@@ -50,7 +46,7 @@ const Media = () => {
       </div>
       <div>
         <a
-          href="https://drive.google.com/file/d/10CvYzUmb6emw0PaeLziCx96aERveMDgg/view?usp=sharing"
+          href="https://drive.google.com/file/d/1pJCQK7oizb-CpAO8sel6nlg3_g8nsPl_/view?usp=drive_link"
           target="_blank"
         >
           <button className="w-full h-12 bg-[#141518] rounded-lg text-base text-gray-400 tracking-wider uppercase hover:text-white duration-300 hover:border-[1px] hover:border-designColor border-transparent">

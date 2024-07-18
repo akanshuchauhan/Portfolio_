@@ -21,7 +21,7 @@ const LeftBanner = () => {
         <h4 className=" xl:text-lg text-base font-normal">WELCOME TO MY WORLD</h4>
         <h1 className="lg:text-6xl text-4xl font-bold text-white">
           Hi, I'm{" "}
-          <span className="text-designColor capitalize">Suraj Kumar</span>
+          <span className="text-designColor capitalize">Akanshu Chauhan</span>
         </h1>
         <h2 className="xl:text-4xl text-2xl font-bold text-white">
           a <span>{text}</span>

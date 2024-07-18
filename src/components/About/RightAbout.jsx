@@ -13,7 +13,7 @@ const RightAbout = () => {
         facets of the MERN stack - MongoDB, Express, React, and Node.js - I
         consistently deliver top-notch solutions tailored to meet the unique
         needs of each project. My proficiency in C++, coupled with familiarity
-        in other languages including Java, Python, and JavaScript, equips me to
+        in other languages including  Python, and JavaScript, equips me to
         tackle diverse challenges with precision and innovation.
       </p>
     </div>

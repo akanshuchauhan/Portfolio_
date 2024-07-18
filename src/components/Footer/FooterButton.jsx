@@ -5,9 +5,9 @@ const FooterBottom = () => {
     <div className="w-full py-10">
       <p className="text-center text-gray-500 text-base">
         © 2024. All rights reserved by{" "}
-        <a href="https://www.linkedin.com/in/suraj-ver789">
+        <a href="https://www.linkedin.com/in/akanshu-chauhan-627622205/">
           <span className=" hover:text-designColor hover:scale-105">
-            Suraj Verma
+            Akanshu Chauhan
           </span>
         </a>
       </p>

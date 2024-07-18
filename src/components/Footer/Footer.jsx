@@ -1,6 +1,6 @@
 import React from "react";
-import {  FaTwitter, FaLinkedinIn, FaGithub } from "react-icons/fa";
-import {  logo4 } from "../../assets/index";
+import { FaTwitter, FaLinkedinIn, FaGithub } from "react-icons/fa";
+import { logo4 } from "../../assets/index";
 
 const Footer = () => {
   return (
@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex gap-2 items-center">
           <img src={logo4} alt="logo" className="w-[40px] rounded-full" />
           <p className=" text-xl font-medium uppercase font-bodyFont ">
-            verma
+            Akanshu
           </p>
         </div>
         <div className="flex flex-col gap-4">
@@ -17,19 +17,14 @@ const Footer = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://www.linkedin.com/in/suraj-ver789">
+            <a href="https://www.linkedin.com/in/akanshu-chauhan-627622205">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>
             </a>
-            <a href="https://github.com/Himanshu8825">
+            <a href="https://github.com/akanshuchauhan">
               <span className="bannerIcon">
                 <FaGithub />
-              </span>
-            </a>
-            <a href="https://twitter.com/suraj_ver789">
-              <span className="bannerIcon">
-                <FaTwitter />
               </span>
             </a>
           </div>
